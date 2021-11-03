@@ -36,8 +36,7 @@ int main() {
 	cout << list.Empty() << endl;
 
 
-	TLinkedListItem I(rc, NULL);
-	//cout << I << endl;
+	
 
 	return 0;
 
